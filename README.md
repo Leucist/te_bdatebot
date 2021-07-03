@@ -10,3 +10,9 @@ Users are able to add their friends' information to the database (unique for eac
 ! doesn't support adequate data saving in databases.
 ! JSON as well. So the way of data saving shall be changed later
 ```
+'config.py' file is required.\
+'config.py':
+```python
+TOKEN = # bot token from BotFather. String
+admin_id = # Telegram id of the admin. Integer
+```
