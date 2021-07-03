@@ -1,0 +1,4 @@
+aiogram==2.13
+aiohttp[speedups]==
+uvloop== *лажа* // а мб и черт с ним
+ujson==
