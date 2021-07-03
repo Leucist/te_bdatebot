@@ -8,5 +8,5 @@ Users are able to add their friends' information to the database (unique for eac
 ```diff 
 ! Heroku, the server I will probably use, 
 ! doesn't support adequate data saving in databases.
-! JSON as well. So they way of data saving shall be changed later
+! JSON as well. So the way of data saving shall be changed later
 ```
