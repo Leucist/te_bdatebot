@@ -1,5 +1,7 @@
 # Telegram BDateBot
-> v = 0.1\
+
+[![Version](https://img.shields.io/badge/version-0.1-red.svg)](https://github.com/Leucist/te_bdatebot)
+
 > Author: [leucist](https://github.com/Leucist)
 
 This is an [aiogram](https://docs.aiogram.dev/en/latest/) Python bot for Telegram\
