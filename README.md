@@ -1,6 +1,7 @@
 # Telegram BDateBot
 
 [![Version](https://img.shields.io/badge/version-0.1-red.svg)](https://github.com/Leucist/te_bdatebot)
+[![author](https://img.shields.io/badge/author-leucist-blue)](https://github.com/Leucist/)
 
 > Author: [leucist](https://github.com/Leucist)
 
